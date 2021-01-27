@@ -20,7 +20,12 @@ int main() {
     }
 
     // Printing my name 50 times using do-while loop.
-    // setting count to 0 again;
-
+    // setting count to 1 again;
+    count = 1;
+    cout << endl << "Using do-while loop :" << endl << "--------------------------------------------" << endl << endl;
+    do {
+        cout << myName << endl;
+        count++;
+    } while(count <= loop);
     return 0;
 }
