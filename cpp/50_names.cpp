@@ -1,7 +1,7 @@
 // C++ assingment 
 // 
 // Instruction: Print your name 50 times using while and do-while loop.
-// Lecturer: Emma
+// Lecturer: Mr. Emma
 // Course: CMS 114
 // Date: Jan-26-2021
 #include <iostream>
